@@ -8,7 +8,7 @@ body {
 }
 
 h1 {
-  font-size: 2em;
+  font-size: 2rem;
   letter-spacing: 1.2em;
   text-shadow: 1px 1px 2px gray ;
   border-bottom: solid 3px rgb(115, 115, 114);
@@ -21,11 +21,11 @@ h2 {
   font-style: normal;
 }
 
-.font-color-m , .font-color2 {
+.fc-skyblue {
 color: skyblue;
 }
 
-.font-color-p , .font-color1 {
+.fc-pink {
   color:  rgb(255, 192, 203);
 }
 
